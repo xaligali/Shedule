@@ -13,7 +13,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication3
 {
-
+    //comment
     public partial class Form1 : Form
     {
         List<Vertex> vertices;//список вершин
