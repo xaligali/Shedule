@@ -14,3 +14,6 @@ C:\Users\user1\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 (2
 C:\Users\user1\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
 C:\Users\user1\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
 C:\Users\user1\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\gal\Shedule\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\gal\Shedule\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\gal\Shedule\WindowsFormsApplication3 (2015-10-18)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
